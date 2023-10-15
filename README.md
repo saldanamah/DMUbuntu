@@ -1,15 +1,7 @@
-<p align="center"><img src="/img/logogif.gif" height="200px" width="200px">
-</p>
+<h1 align="center">DM Ubuntu</h1>
 
-<h1 align="center">DM unbl0cker</h1>
+<h4 align="center">search the web and chat.</h3>
 
-<h4 align="center">uses ultraviolet to search the web freely.</h3>
-
-<p align="center">
-<a href="https://discord.gg/hrXXUeWgrn">
-  <img src="https://dcbadge.vercel.app/api/server/hrXXUeWgrn"/>
-</a>
-</p>
 <h1></h1>
 <h2>deployment</h2>
 
